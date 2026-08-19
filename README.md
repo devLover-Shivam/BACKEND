@@ -1,2 +1,65 @@
-# BACKEND
-A structured backend development repository covering Node.js, Express.js, REST APIs, databases, authentication, middleware, and other backend concepts with practical examples and documentation.
+# Backend Development
+
+A structured learning repository for understanding backend development from the fundamentals to building production-ready backend applications.
+
+This repository documents my backend development journey with practical examples, implementations, and explanations of the concepts I learn along the way.
+
+---
+
+## Roadmap
+
+The repository is organized in the following progression:
+
+```text
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+       
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+        │
+        ▼
+
+```
+
+---
