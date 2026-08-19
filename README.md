@@ -20,7 +20,7 @@ The repository is organized in the following progression:
 03.Assignment_01
         │
         ▼
-
+04.Mini_Project_01(Inside Projects Folder)
         │
         ▼
 
