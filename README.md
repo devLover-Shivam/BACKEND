@@ -23,10 +23,10 @@ The repository is organized in the following progression:
 04.Mini_Project_01(Inside Projects Folder)
         │
         ▼
-
+05.Database
         │
         ▼
-
+06.Assignment_02
         │
         ▼
 
