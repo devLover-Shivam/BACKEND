@@ -29,7 +29,7 @@ The repository is organized in the following progression:
 06.Assignment_02
         │
         ▼
-
+07.SocialMedia_Project
         │
         ▼
 
